@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Data files
+bug_predictor/data/*.csv
+bug_predictor/data/*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Saved models
+bug_predictor/outputs/models/*.pkl

@@ -1,4 +1,4 @@
-Bug/Defect Predictor
+## Bug/Defect Predictor
 
 ## Overview
 A machine learning model that predicts whether a software module
